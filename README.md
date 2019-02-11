@@ -8,7 +8,11 @@ These tutorials assume PyTorch version 1.0.0
 
 ## Available Tutorials
 - Using allennlp
+    - Basics
     - Using BERT and ELMo
+
+- Models from scratch
+    - Implementing the Transformer from scratch
 
 ## Tutorials I am Planning to Work On
 - Doing a deep dive into LSTMs by implementing an LSTM cell from scratch in PyTorch
