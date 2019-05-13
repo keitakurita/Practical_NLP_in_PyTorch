@@ -10,9 +10,13 @@ These tutorials assume PyTorch version 1.0.0
 - Using allennlp
     - Basics
     - Using BERT and ELMo
+    
+- Using fastai
+    - Using BERT
 
 - Models from scratch
+    - Implementing an LSTM from scratch
     - Implementing the Transformer from scratch
 
 ## Tutorials I am Planning to Work On
-- Doing a deep dive into LSTMs by implementing an LSTM cell from scratch in PyTorch
+- A deep dive into language modeling
