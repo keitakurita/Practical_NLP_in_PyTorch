@@ -17,6 +17,6 @@ These tutorials assume PyTorch version 1.0.0
 - Models from scratch
     - Implementing an LSTM from scratch
     - Implementing the Transformer from scratch
+    - Implementing the Transformer XL from scratch
 
 ## Tutorials I am Planning to Work On
-- A deep dive into language modeling
